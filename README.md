@@ -1,4 +1,4 @@
-# Texas Hold'em Poker Club Platform|专业级德州扑克俱乐部平台解决方案|H5德州|H5德州扑克|KKPoker德州扑克源码
+# Texas Hold'em Poker Club Platform|专业级德州扑克俱乐部平台解决方案|H5德州|H5德州扑克|KKPoker德州扑克源码|永旺德州源码
 
 支持：
 
