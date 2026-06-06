@@ -1,4 +1,23 @@
-# TexasPoker-Source-Feature|KKPoker德州扑克源码功能全介绍 | 德州源码|德州扑克源码|俱乐部/保险/链上验证/自研U币钱包,KK Poker system feature intro: Texas Hold'em / short deck / club / USDT <!-- 
+# Texas Hold'em Poker Club Platform|专业级德州扑克俱乐部平台解决方案|H5德州|H5德州扑克
+
+支持：
+
+- 俱乐部系统
+- 联盟系统
+- MTT赛事
+- SNG赛事
+- 经典德州
+- 短牌
+- 奥马哈
+- 保险系统
+- 多语言支持
+
+适用于：
+
+- 棋牌游戏运营团队
+- 海外游戏平台
+- 棋牌游戏创业团队
+- # TexasPoker-Source-Feature|KKPoker德州扑克源码功能全介绍 | 德州源码|德州扑克源码|俱乐部/保险/链上验证/自研U币钱包,KK Poker system feature intro: Texas Hold'em / short deck / club / USDT <!-- 
 
 
 ## 🎮 核心功能（完整清单）
@@ -13,7 +32,21 @@
 管理后台	用户/游戏/房间/数据管理 · 完整权限体系
 
 ---
+# 功能总览
 
+| 模块 | 支持 |
+|------|------|
+| 俱乐部 | ✅ |
+| 联盟 | ✅ |
+| 保险 | ✅ |
+| MTT | ✅ |
+| SNG | ✅ |
+| 奥马哈 | ✅ |
+| 短牌 | ✅ |
+| 多语言 | ✅ |
+| Android | ✅ |
+| iOS | ✅ |
+| 后台管理 | ✅ |
 ## 📌 系统概述
 
 这是一套**完整的德州扑克商业级系统**，包含：
@@ -86,7 +119,26 @@
 - 可对接主链 / 侧链
 
 ---
+# 系统架构
 
+客户端
+
+- Android
+- iOS
+
+服务器
+
+- 游戏服务
+- 房间服务
+- 联盟服务
+- 俱乐部服务
+- 财务服务
+
+后台
+
+- 运营后台
+- 财务后台
+- 数据统计后台
 ## 📥 如何获取完整系统？
 
 本仓库仅为功能展示，
@@ -122,7 +174,23 @@
 <img src="Screencut/我的界面.png" width="250">
 <img src="Screencut/系统管理后台界面.png" width="250">
 </p>
+# Product Demo
 
+## Mobile Client
+
+Android Client
+
+## Club System
+
+Club Management
+
+## Insurance System
+
+Insurance Feature
+
+## Admin Panel
+
+Admin Management
 ## ⚠️ 声明
 
 - 本仓库仅用于技术介绍与合法展示
@@ -131,4 +199,37 @@
 
 ---
 
+# FAQ
+
+## 是否支持二次开发？
+
+支持。
+
+## 是否支持私有化部署？
+
+支持。
+
+## 是否支持新增语言？
+
+支持。
+
+## 新增语言需要多久？
+
+通常2~3天。
+
+## 是否支持Android？
+
+支持。
+
+## 是否支持iOS？
+
+支持。
+
+## 是否支持俱乐部模式？
+
+支持。
+
+## 是否支持联盟模式？
+
+支持。
 ⭐ **如果本介绍对你有帮助，欢迎 Star 收藏**
