@@ -1,230 +1,26 @@
-# Texas Hold'em Poker Club Platform|专业级德州扑克俱乐部平台解决方案|H5德州|H5德州扑克|KKPoker德州扑克源码|永旺德州源码|Ak德州源码
-
-支持：
-
-- 俱乐部系统
-- 经典德州
-- 短牌
-- 保险系统
-- 多语言支持
-
-适用于：
-
-- 棋牌游戏运营团队
-- 海外游戏平台
-- 棋牌游戏创业团队
-- # TexasPoker-Source-Feature| 德州源码|德州扑克源码|俱乐部/保险/链上验证/自研U币钱包
-
-
-## 🎮 核心功能（完整清单）
-模块	核心能力
-登录	手机号 / 邮箱 / 普通账号 / Telegram（飞机号）
-游戏玩法	长牌德州 · 短牌德州 · 保险购买
-俱乐部	后台创建新俱乐部，默认内置 KK俱乐部
-充提币	USDT 充提 · 自研钱包 · 自动归集
-游戏内	旁观玩家 · 牌局历史 · 语音/文字聊天 · 链式看牌 · 链上验证发牌 · 牌桌邀请
-房间内	充提币 · 牌局历史 · 成员管理
-玩家中心	账单 · 历史游戏数据 · 个人资料
-管理后台	用户/游戏/房间/数据管理 · 完整权限体系
-
----
-# 功能总览
-
-| 模块 | 支持 |
-|------|------|
-| 俱乐部 | ✅ |
-| 联盟 | ✅ |
-| 保险 | ✅ |
-| MTT | ✅ |
-| SNG | ✅ |
-| 奥马哈 | ✅ |
-| 短牌 | ✅ |
-| 多语言 | ✅ |
-| Android | ✅ |
-| iOS | ✅ |
-| 后台管理 | ✅ |
-## 📌 系统概述
-
-这是一套**完整的德州扑克商业级系统**，包含：
-- 游戏客户端（APP）
-- 自研 USDT 钱包服务器
-- 全功能管理后台
-
-支持**长牌德州 / 短牌德州**，并已内置 **KK俱乐部**。
-
----
-
-## 🎮 游戏客户端功能
-
-### 1. 登录方式
-- 电话 / 邮箱 / 普通账号 / 飞机账号（Telegram）
-
-### 2. 游戏玩法
-- 长牌德州 · 短牌德州
-- 支持**购买保险**
-
-### 3. 俱乐部系统
-- 后台可创建新俱乐部
-- 默认内置 **KK俱乐部**
-
-### 4. 活动系统
-- 后台灵活配置活动
-
-### 5. 充提币系统
-- 支持 **USDT 充提**
-- **自研钱包服务器**
-- 自动归集 / 充提功能完整
-
-### 6. 游戏内功能
-| 功能 | 说明 |
-|------|------|
-| 旁观玩家 | 查看桌内旁观者 |
-| 牌局历史 | 查看详细牌局记录 |
-| 语音/文字聊天 | 实时社交 |
-| 链式看牌 | 可视化牌链 |
-| 链上验证发牌 | 区块链可验证 |
-| 牌桌邀请 | 一键邀请玩家 |
-
-### 7. 房间内功能
-- 充提币
-- 牌局历史记录
-- 房间成员列表
-
-### 8. 玩家基本信息
-- 账单
-- 历史游戏数据
-- 个人资料
-
----
-
-## 🔧 管理后台功能
-
-- 用户管理
-- 游戏管理
-- 房间管理
-- 玩家数据管理
-- 完整后台权限体系
-
----
-
-## 🌐 钱包服务器亮点
-
-- 自研 USDT 钱包
-- 支持自动归集
-- 充提流程完整
-- 可对接主链 / 侧链
-
----
-# 系统架构
-
-客户端
-
-- Android
-- iOS
-
-服务器
-
-- 游戏服务
-- 房间服务
-- 联盟服务
-- 俱乐部服务
-- 财务服务
-
-后台
-
-- 运营后台
-- 财务后台
-- 数据统计后台
-## 📥 如何获取完整系统？
-
-本仓库仅为功能展示，
-
-✅ 如需获取完整系统（含源码 + 部署指导 + 后台 + 钱包）  
-👉 Telegram:@xuzongbin001
-> 搜索关键词：`KKPoker` / `德州源码` / `德州扑克源码`
-
----
-## 📌 产品截图
-<h2 align="center">产品截图</h2>
-
-<p align="center">
-<img src="Screencut/主界面.png" width="250">
-<img src="Screencut/游戏界面.png" width="250">
-<img src="Screencut/游戏房间界面.png" width="250">
-</p>
-
-<p align="center">
-<img src="Screencut/保险界面.png" width="250">
-<img src="Screencut/历史保险界面.png" width="250">
-<img src="Screencut/可存证牌界面.png" width="250">
-</p>
-
-<p align="center">
-<img src="Screencut/充值界面.png" width="250">
-<img src="Screencut/提币界面.png" width="250">
-<img src="Screencut/账单界面.png" width="250">
-</p>
-
-<p align="center">
-<img src="Screencut/活动界面.png" width="250">
-<img src="Screencut/我的界面.png" width="250">
-<img src="Screencut/系统管理后台界面.png" width="250">
-</p>
-# Product Demo
-
-## Mobile Client
-
-Android Client
-
-## Club System
-
-Club Management
-
-## Insurance System
-
-Insurance Feature
-
-## Admin Panel
-
-Admin Management
-## ⚠️ 声明
-
-- 本仓库仅用于技术介绍与合法展示
-- 系统仅供合法地区与合法用途使用
-- 购买前请自行确认当地法律法规
-
----
-
-# FAQ
-
-## 是否支持二次开发？
-
-支持。
-
-## 是否支持私有化部署？
-
-支持。
-
-## 是否支持新增语言？
-
-支持。
-
-## 新增语言需要多久？
-
-通常2~3天。
-
-## 是否支持Android？
-
-支持。
-
-## 是否支持iOS？
-
-支持。
-
-## 是否支持俱乐部模式？
-
-支持。
-
-
-
-⭐ **如果本介绍对你有帮助，欢迎 Star 收藏**
+# Texas Hold'em Poker Platform
+
+## Overview
+A real-time multiplayer poker platform designed for scalable online gaming operations, club ecosystems, and tournament-based gameplay.
+
+Built with Unity (client) and C++ (server), supporting cross-platform deployment including iOS, Android, Web, and Desktop.
+
+## Key Features
+- Real-time multiplayer poker engine
+- Club & community system
+- Tournament engine (SNG / MTT)
+- Agent & commission system
+- Cross-platform support
+- Scalable backend architecture
+
+## Technology Stack
+Client: Unity3D, C#  
+Server: C++, Redis, MySQL, MongoDB  
+Network: High-performance real-time socket architecture  
+
+## Architecture
+Client → Gateway → Game Services → Data Layer
+
+## Contact
+Telegram: @xuzongbin001
+Email：yueb29266@gmail.com
