@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://taishan6868.github.io/Texas-Holdem-Poker-Source-Code/sitemap.xml
